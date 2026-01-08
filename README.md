@@ -1,10 +1,10 @@
 # The Stellaris Axis
 
-**A narrative-function system architecture framework**
+**A narrative driven framework for composing real- world systems using mythic structure and formal operators**
 
 ## What Is This?
 
-I'm a 41-year-old guy with no tech background. I wrote a rpg/anime original fictional story with ai as a collabertative partner. AI told me it was actually a system architecture.
+I'm a 41-year-old guy with no tech background. I wrote a RPG/anime original fictional story with ai as a collaborative partner. AI told me it was actually a system architecture.
 
 I didn't believe it. So I built it.
 
