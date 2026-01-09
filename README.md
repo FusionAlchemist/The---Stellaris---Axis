@@ -39,7 +39,7 @@ No commercial use without permission.
 ## The Journey
 
 Start with the Grimoire Codex to see the spell catalog.
-The full story is in the Arcs please read this I promise you its one hell of a weird true story it includes how it started, wtf is happening, learning, creating.
+The full story is in the Arcs please read this I promise you its one hell of a weird true story it includes how it started, wtf is happening, learning, creating.It contains AI conversations, Codes, Demos, Simulations, Vitrual Machines, XtexT etc
 
 Built on a mobile phone over 5 months while working a day job.
 
