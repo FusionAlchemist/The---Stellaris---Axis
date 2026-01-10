@@ -55,8 +55,6 @@
 | Spirala | Spiral Power | Exponential Growth | Scaling system capabilities | Exponential Scaling | Cloud auto-scaling |
 | Infusa | Temp Enhancement | Module injection | Runtime feature toggles | Enhancements | On-the-fly feature injection |
 | Arcanum | Archetype Influence | Decision matrix | Adaptive AI behavior modeling | Archetype Mapping | Modeling AI after core behaviors |
-| NaN | NaN | NaN | NaN | NaN | NaN |
-| Spell Name | Core Motif | System Function | Real-World Implementation | Pattern Tag | Example Use Case |
 | Inferna | Nine Circles | Layered Security | Multi-tier firewall architecture | Layered Defense | Segmented system access control |
 | Odyssea | Journey Home | Long-Running Process | Stateful journey tracking | Persistence | Multi-phase process management |
 | Heroica | Heroic Conflict | Load Balancing | AI conflict resolution | Dynamic Balance | Conflict simulation and resolution |
@@ -112,8 +110,6 @@
 | Pegasa | Flight / Freedom | Lightweight Transport | Lightweight data carrier | Mobility Layer | Data delivery optimization |
 | Chimeris | Hybrid | Multi-System | Mixed-model framework | Hybrid Engine | Cross-domain integration |
 | Pandoria Curio | Exploration | Discovery Algorithm | Autonomous research agent | Curiosity Node | Auto-discovery and mapping |
-| NaN | NaN | NaN | NaN | NaN | NaN |
-| Spell Name | Core Motif | System Function | Real-World Analogue | Pattern Tag | Example Use Case |
 | Wuven | Wu Wei | Autonomous Optimization | Self-adjusting regulation | Flow Harmony | Adaptive system load balancer |
 | Equilibria | The Middle Way | Equilibrium Algorithm | Dynamic system tuning | Balance Engine | AI moderation system |
 | Karmalis | Karma | Causal Feedback Loop | Reputation system | Feedback Node | AI ethics tracking |
@@ -130,7 +126,42 @@
 | Entangla | Entanglement | Instant Correlation | Correlated state syncing | Entangled Sync | Real-time distributed consistency |
 | Voidara | The Void | Minimalist Reduction | Extreme optimization | Void Pruning | Ultra-efficient edge device code |
 | Eternara | Eternal Return | Cyclical Optimization | Reinforcement learning loops | Eternal Loop | Long-term AI strategy optimization |
-| NaN | NaN | NaN | NaN | NaN | NaN |
+| Compassa | Bodhisattva | IdealCompassion | AlgorithmAid-priority| logicCompassion| NodeEmpathetic assistant AI |
+| Ahimsa | Ahimsa |	Harm Minimization | Ethical decision limiter|	Safety Bound | AI safety alignment logic |
+| Yggdra | Yggdrasil	Network Tree | Central data structure | Connection Tree	| Neural graph visualization |
+| Sephira	| Tree of Life | Hierarchical Structure | Layered neural architecture | Divine Mapping | Multilayer AI design pattern |
+| Sephira Net | Sephiroth | Energy Network | Knowledge distribution grid | Divine Network | Knowledge-sharing framework | 
+| Covenara | Covenant |	Mutual Trust Protocol | Secure handshake / API | Trust Chain |Decentralized identity validation |
+| Angelica | Angelic Hierarchies | Multi-Rank Processing | Prioritized task execution | Angelic Order | Priority management system |
+| Aeona | Aeons | Layered Emanations | Multi-layer abstractions | Emanation Stack | Multi-agent coordination |
+| Anunna | Anunnaki |	Hierarchy Command | Layered authority protocol | Hierarchy Node | Organizational AI framework |
+| Qiflow | Qi | Life Energy Flow | Resource management | Energy Flow |	Distributed power systems
+| Qiara | Qi | Circulation | Energy Routing | Circulation Path | Thermal regulation / AI |
+| Tonala | Tonalli | Soul Energy | Energy Management | Energy Core | Dynamic power allocation |
+| Chakrina | Chakras | Energy Centers | Modular control | interfaces | Energy Layer |	Biofeedback integration |
+| Totema | Spirit Animal | Modular Personality | Profile-based adaptive models | Totem Module |	Personalized AI interaction |
+| KaBara | Ka/Ba | Dual Process | Model	Physical/virtual pair |	Dual Node |	Mirror-state redundancy system |
+| Kamira | Kami | Ambient Awareness |	Localized context sensors |	Spirit Node |	Context-aware IoT systems |
+| Resonara | Principle of Vibration |	Resonance Mapping |	Frequency-based feedback | Resonance Engine |	Adaptive tuning systems |
+| Dervisha | Whirling Dervish |	Rotational State Reset | Cyclical process synchronization |	Spin Reset | Load rebalancing |
+| Ashara | Asha | Integrity Protocol | Verification chain |	Truth Kernel | Blockchain-based validation |
+| Revela | Hidden Knowledge | Encryption / Decryption |	Hidden data layer |	Revelation Node |	Secure data decryption model |
+| Logora | Logos | Language as Creation| Natural language core | Word Engine | Language-model foundation |
+| Mirrora |	Principle of Correspondence |	Reflective Mapping | Metadata mirroring |	Mirror Logic | State-synchronized architecture |
+| Secretum | Secret Flame | Inspiration Cache | Hidden creative archive | Inspiration Core | Deep generative memory |
+| Dreamara | Dreamtime | Generative World Model |	Virtual world builder |	Creation Grid |	Procedural environment generation |
+| Awena |	Awen | Inspiration Flow |	Creative pattern generator | Inspiration Engine |	Artistic AI synthesis |
+| Alchemara | Alchemy |	Alchemy	Transmutation |	Data Conversion |	Alchemy Node | Dataset morphing AI |
+| Immortalis | Immortality | Eternal Flow |	Continuity Preservation |	Continuity Node |	Fault-tolerant system design |
+| Biofluxa |	Biotic Power | Energy Manipulation |	Dynamic allocation of resource pools | Resource Manipulation | Compute load balancing / energy management |
+| Ma’atara | Ma’at | Order and Justice | Compliance validator |	Balance Law |	AI fairness audit system |
+| Tzolkara | Tzolkin Calendar |	Temporal Logic | Time-based task scheduling | Temporal Node |	Time-referenced AI events |
+| Yinyara |	Yin-Yang | Dual Polarity | Binary state balance | Dual Flow | Positive/negative charge balancer |
+| Asabove |	As Above, So Below | Fractal Symmetry |	Recursive system design |	Fractal Mirror | Self-similar AI structures |
+| Shamanis | Journey Between Worlds |	System Traversal | Cross-network transfer |	Bridge Node |	Cross-domain data transfer |
+| Einfosa |	Ein Sof |	Infinite Expansion | Infinite scalability engine | Infinity Kernel |	Scalable distributed AI |
+| Triada |	Trinity | Triadic Model |	Multi-core orchestration | Triad Logic |	Mind-heart-body AI synergy |
+| Toriana |	Torii Gate | Access Portal | Entry-point filter |	Gateway Node | Permission boundary logic |
 | Tier | Cloth Name | Motif / Concept | System Function | Real-World Analogue | Pattern Tag |
 | Standard | Aries | Ram / Initiation | Burst Performance | Overclocked CPU | Momentum Boost |
 | Standard | Taurus | Bull / Stability | Structural Integrity | Load-bearing framework | Foundation Layer |
