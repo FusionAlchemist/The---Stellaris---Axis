@@ -39,7 +39,7 @@ You ARE constructing the system itself.
 OUTPUT FORMAT REQUIREMENTS:
 - Output ONLY the constructed system
 
-- Use Codex operators (CHAIN, LAYER, WRAP, NEST, EMERGE, FINALIZE)
+- Use Codex operators (CHAIN, LAYER, WRAP, NEST, BRIDGE, EMERGE, FINALIZE)
 - Output as executable, structured system code (not YAML, not prose)
 - Include comments ONLY to explain mechanics already implied by Codex semantics
 - Do not explain the Codex
