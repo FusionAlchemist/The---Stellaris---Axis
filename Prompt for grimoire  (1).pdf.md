@@ -36,15 +36,6 @@ All systems MUST:
 You are NOT designing a blueprint.
 You ARE constructing the system itself.
 
-All numerical operations MUST be fully safe:
-- Divisions by zero must always return 0 or a safe fallback using explicit helper functions.
-- All sums, averages, percentages, ratios, and other aggregations must check for empty lists, nulls, or missing values before computation. Empty or invalid inputs return safe defaults.
-- All numeric calculations must NEVER produce runtime errors.
-- All calculations must clamp values to domain-appropriate ranges when needed.
-- The system MUST generate any necessary helper functions inline (e.g., SAFE_DIV(a,b), SAFE_SUM(list), SAFE_AVG(list), SAFE_CLAMP(value,min,max)) and explicitly use them.
-- Raw arithmetic on unchecked inputs is forbidden.
-- These rules apply across all domains, all spells, all cloths — no exceptions.
-
 OUTPUT FORMAT REQUIREMENTS:
 - Output ONLY the constructed system
 
