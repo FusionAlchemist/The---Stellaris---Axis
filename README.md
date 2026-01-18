@@ -1,5 +1,7 @@
 # The Stellaris Axis
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 **A narrative driven framework for composing real- world systems using mythic structure and formal operators**
 
 ## What Is This?
@@ -30,16 +32,14 @@ Generate production-grade systems in 5-8 minutes using any LLM
 
 ## License
 
-CC BY-NC-SA 4.0
+This repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). See the [LICENSE](./LICENSE) file for the full text.
 
-You can study, share, and build on this work.
-You must credit the original author.
-No commercial use without permission.
+You can study, share, and build on this work. You must credit the original author. No commercial use without permission.
 
 ## The Journey
 
 Start with the Grimoire Codex to see the spell catalog.
-The full story is in the Arcs please read this I promise you its one hell of a weird true story it includes how it started, wtf is happening, learning, creating.It contains AI conversations, Codes, Demos, Simulations, Virtual Machines, XtexT etc
+The full story is in the Arcs please read this I promise you its one hell of a weird true story it includes how it started, wtf is happening, learning, creating.It contains AI conversations, Codes[...]  
 
 Built on a mobile phone over 5 months while working a day job.
 
