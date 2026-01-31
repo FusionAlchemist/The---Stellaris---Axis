@@ -163,6 +163,7 @@
 | Triada |	Trinity | Triadic Model |	Multi-core orchestration | Triad Logic |	Mind-heart-body AI synergy |
 | Toriana |	Torii Gate | Access Portal | Entry-point filter |	Gateway Node | Permission boundary logic |
 | Mathara | Safe Mathematics | Error-Proof Computation| Division guards, null checks, range clamping, safe aggregation | Numerical Safety / Computation Guard | Any system requiring arithmetic operations without runtime errors |
+| Deadpoolia | Regenerative Cascade |Dependency-Ordered Recovery | Topological sort + phased regeneration with state machine | Ordered Healing | Cache invalidation with dependency-aware regeneration |
 
 
 Here's your cloth system converted into a properly formatted table:
